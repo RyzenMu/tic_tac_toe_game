@@ -3,7 +3,7 @@ import random
 
 
 def board():
-    position1 = int(input("Enter a uPosition1: "))
+    position1 = int(input("Enter a uPogsition1: "))
     computer1 = random.randint(1, 9)
 
 
